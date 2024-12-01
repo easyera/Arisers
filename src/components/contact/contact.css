@@ -1,0 +1,79 @@
+.contact-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 40px;
+  background-color: #082032;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-details,
+.pitch-form {
+  flex: 1;
+  padding: 20px;
+}
+
+.pitch-form {
+  border-left: 3px solid #FF4C29; /* Divider between sections */
+}
+
+.contact-details h2{
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    color: #FF4C29;
+}
+.pitch-form h2 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  color: #082032;
+}
+
+.pitch-form{
+    background-color: white;
+}
+
+.contact-details p{
+    margin-bottom: 10px;
+    font-size: 1em;
+    line-height: 1.5;
+    color: whitesmoke;
+}
+.pitch-form p {
+  margin-bottom: 10px;
+  font-size: 1em;
+  line-height: 1.5;
+  color: #2C394B;
+}
+
+.pitch-form .send-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none; /* Removes underline */
+    color: #fff;
+    background-color: #17a2b8;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+.pitch-form .send-button:hover {
+  background-color: #138496;
+}
+
+@media (max-width: 768px) {
+  .contact-section {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .contact-details {
+    border-right: none;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+}
