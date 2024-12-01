@@ -2,7 +2,7 @@ import "./portfolio.css";
 import Portcard from "../../components/portfoliocard/portcard";
 import { IoArrowBackCircleSharp } from "react-icons/io5";
 import AKM from "../../assets/sites/AKM.jpeg";
-import POOJiYAM from "../../assets/sites/POOJiYAM.jpeg";
+import POOJiYAM from "../../assets/sites/POOJIYAM.jpeg";
 import YUGAVRITTAH from "../../assets/sites/YUGAVRITTAH.jpeg";
 
 export default function Portfolio() {
