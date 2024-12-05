@@ -7,7 +7,7 @@ export default function Footer() {
     <div className="footer">
       <div className="footer-content">
         <div className="footer-logo">
-          <h1>Let’s connect and create something awesome together!</h1>
+          <h1>Let’s connect and create something amazing with Arisers!</h1>
         </div>
         <div className="footer-links">
           <a href="https://www.instagram.com/">

@@ -43,6 +43,9 @@
 }
 
 .service-card-footer {
+  height: 94px;
+  display: flex;
+  align-items: center;
   padding: 10px;
   position: absolute;
   bottom: 0;

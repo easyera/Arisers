@@ -14,14 +14,14 @@ export default function Service() {
             />
           </div>
           <div className="service-card-footer">
-            <h4>Full stack</h4>
+            <h4>Full Stack Development</h4>
           </div>
           <div className="service-card-pop">
             <div className="service-card-pop-content">
               <p>
-                We create visually appealing and user-friendly websites and
-                applications. Our team uses the latest technologies to ensure
-                fast, secure, and responsive designs that meet your needs.
+                Get comprehensive full-stack development services from Arisers.
+                We build scalable, secure, and dynamic web solutions to power
+                your business growth, from front to back.
               </p>
             </div>
           </div>
@@ -34,14 +34,14 @@ export default function Service() {
             />
           </div>
           <div className="service-card-footer">
-            <h4>Front or Back</h4>
+            <h4>Frontend or Backend Development</h4>
           </div>
           <div className="service-card-pop">
             <div className="service-card-pop-content">
               <p>
-                We create visually appealing and user-friendly websites and
-                applications. Our team uses the latest technologies to ensure
-                fast, secure, and responsive designs that meet your needs.
+                Need specialized web support? Arisers offers expert frontend and
+                backend development to optimize your website’s functionality and
+                user experience for all your business needs.
               </p>
             </div>
           </div>
@@ -54,14 +54,14 @@ export default function Service() {
             />
           </div>
           <div className="service-card-footer">
-            <h4>3D media</h4>
+            <h4>3D Media Services</h4>
           </div>
           <div className="service-card-pop">
             <div className="service-card-pop-content">
               <p>
-                We create visually appealing and user-friendly websites and
-                applications. Our team uses the latest technologies to ensure
-                fast, secure, and responsive designs that meet your needs.
+                Elevate your business with Arisers 3D media services. We create
+                stunning animations, product visualizations, and 3D assets
+                tailored to your brand and professional needs.
               </p>
             </div>
           </div>

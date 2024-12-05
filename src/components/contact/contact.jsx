@@ -1,7 +1,7 @@
 import "./contact.css";
 
 export default function ContactSection() {
-  const recipient = "contact@brandaflairo.ro";
+  const recipient = "inventflex@gmail.com";
   const subject = "Project Discussion";
   const body =
     "Hello, my name is [your name], and my email address is [your email]. I would like to discuss this project.";
@@ -10,16 +10,17 @@ export default function ContactSection() {
     subject
   )}&body=${encodeURIComponent(body)}`;
 
+  
   return (
     <div className="contact-section" id="contact">
       <div className="contact-details">
         <h2>Meet us</h2>
-        <p>📞 +40728303333</p>
-        <p>📧 contact@brandaflairo.ro</p>
-        <p>📍 Amman St, no 35, 4th floor, ap 10, Bucharest</p>
+        <p>📞 +919159783185</p>
+        <p>📧 inventflex@gmail.com</p>
+        {/* <p>📍 Amman St, no 35, 4th floor, ap 10, Bucharest</p> */}
       </div>
       <div className="pitch-form">
-        <h2>Pitch us</h2>
+        <h2>Contact us</h2>
         <p>
           hello, <br />
           my name is <strong>your name</strong> and my e-mail address is{" "}

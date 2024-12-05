@@ -8,7 +8,10 @@ export default function About() {
       <div className="about-innercontent">
         <div className="about-header">
           <div className="about-box">
-            <img src="https://images.pexels.com/photos/5240548/pexels-photo-5240548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="abouts_pic" />
+            <img
+              src="https://images.pexels.com/photos/5240548/pexels-photo-5240548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              alt="abouts_pic"
+            />
             <div className="about-icons">
               <a href="">
                 <TiSocialLinkedin className="icon" />
@@ -24,15 +27,16 @@ export default function About() {
         </div>
         <div className="about-footer">
           <h3>
-            I’m John Smith. I’m passionate about crafting exceptional websites.
-            With a blend of design skills and coding expertise, I create unique
-            online experiences that captivate users.
+            Arisers is a new, innovative company offering affordable and
+            customizable web development and 3D media solutions. We help small
+            businesses thrive with personalized tech support.
           </h3>
           <p>
-            Looking for a top-notch web developer to revamp your hotel’s
-            website? Look no further than John Smith. With years of experience
-            and a keen eye for design, John can take your site to the next
-            level, helping you attract more visitors and boost your bookings.
+            At Arisers, we specialize in delivering innovative, cost-effective
+            solutions for web development and 3D media. Our team is dedicated to
+            providing small businesses with customized, scalable support to
+            enhance their digital presence and streamline operations, helping
+            them grow and succeed.
           </p>
         </div>
       </div>
